@@ -1,11 +1,11 @@
-This repository is for FBD Project.
-===================================
-Participant: Kang-Jaewon, Kim-Kyeongmin, Lee-Kyungho
-----------------------------------------------------
-# arduino
-Firmwares to be uploded on Arduino Nano
-# PC
-## basic file
-basic_algorithm.py
-## allocation algorithms
-codes for elevator controlling
+# Program Language
+C++ with Arduino, Python
+# When
+From January 2020 To March 2020
+# Contributors
+Kang-Jaewon, Kim-Kyeongmin, Lee-Kyungho
+# Description
+## arduino
+Get input such as elevator calls, and layer calls by push buttons with arduino  
+## PC
+Display the result with graphic which controls elevators by own algorithm
