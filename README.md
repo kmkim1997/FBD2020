@@ -1,5 +1,6 @@
 # Program Language
-C++ with Arduino, Python
+C++ with Arduino  
+Python
 # When
 From January 2020 To March 2020
 # Contributors
